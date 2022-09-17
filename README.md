@@ -1,5 +1,6 @@
 # Numbers
 The best solution to "magic numbers" warning
+Don't let the Checkstyle weird magic number warning bother you!
 
 ## Step 1
 download the library by going to Code > Download ZIP
